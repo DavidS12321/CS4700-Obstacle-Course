@@ -1,0 +1,7 @@
+- 5 levels with increasing difficulty
+- lives and restarting the level
+- scene loading
+- time and score
+- better collision detection
+- main menu/UI
+- sound effects
