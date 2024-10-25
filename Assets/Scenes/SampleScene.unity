@@ -3217,7 +3217,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2324575397068467882, guid: 267f6a5453101b444b9d1906379c3cee, type: 3}
       propertyPath: m_Name
-      value: Player (Chodtz)
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 8338411352692928427, guid: 267f6a5453101b444b9d1906379c3cee, type: 3}
       propertyPath: m_LocalPosition.x
